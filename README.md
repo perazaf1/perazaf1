@@ -10,6 +10,5 @@ My activities:
 
 Tell me something !!
 - 📫 How to reach me: pe.razafindrakoto@gmail.com
+- https://www.nd-grandchamp.fr (My school) 
 
-My school:
--https://www.nd-grandchamp.fr
