@@ -9,6 +9,6 @@ My activities:
 - 🔥 young firefighter
 
 Tell me something !!
-- 📫 How to reach me: pe.razafindrakoto@gmail.com
+- 📫 How to reach me: you can't 😋
 - https://www.nd-grandchamp.fr (My school) 
 
