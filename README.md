@@ -2,7 +2,7 @@
 
 -Hey what's up ?
 
-My activities:
+What I'm doing : 
 - 🖥 I’m currently learning HTML CSS and JavaScript
 - 💤 going to school 
 - 🏊‍♂️🚴‍♂️🏃‍♂️ sports
