@@ -1,6 +1,6 @@
 ### Hi there this is me👋
 
-- I'm actually a young french student who is interested in code and sports.
+-This is me.
 
 My activities:
 - 🖥 I’m currently learning HTML CSS and JavaScript
