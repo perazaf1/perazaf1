@@ -1,6 +1,6 @@
 ### Hi there this is me👋
 
--This is me.
+-Hey what's up ?
 
 My activities:
 - 🖥 I’m currently learning HTML CSS and JavaScript
