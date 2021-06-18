@@ -11,4 +11,4 @@
 
 - Javascript training <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="logo JavaScript" align="center" width="60" height="60">
 
-* Coding front-end websites <img src="https://www.mathieuchartier.com/wp-content/uploads/html_css_advanced_topic.jpg" alt="css html" align="center" width="120" height="65">
+* Coding front-end websites <img src="https://www.mathieuchartier.com/wp-content/uploads/html_css_advanced_topic.jpg" alt="css html" align="center" width="110" height="65">
