@@ -2,7 +2,7 @@
 
 ### My activities :
 
-- 🖥 I’m currently learning HTML CSS and JavaScript <img src="https://www.startinop.com/wp-content/uploads/2020/11/html-css-js.jpg" alt="html css js" align="center" width="60" height="65">
+- 🖥 I’m currently learning HTML CSS and JavaScript <img src="https://www.startinop.com/wp-content/uploads/2020/11/html-css-js.jpg" alt="html css js" align="center" width="120" height="65">
 - 🏊‍♂️🚴‍♂️🏃‍♂️ sports
 - 🔥 young firefighter
 
