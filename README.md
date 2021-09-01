@@ -36,7 +36,8 @@
 
 <img align="left" alt="perazaf1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perazaf1&show_icons=true&hide_border=true&theme=dracula"
 />
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perazaf1&layout=compact&langs_count=8&theme=react&locale=fr"/>
+<br/>
+<img height="100em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perazaf1&layout=compact&langs_count=8&theme=react&locale=fr"/>
 
 ---
 
