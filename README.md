@@ -36,5 +36,5 @@
 
 ---
 
-<img align="left" alt="perazaf1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perazaf1&show_icons=true&hide_border=true&title_color=#2d333b&text_color=##9DA7B3&locale=en&bg_color=#22272e"
+<img align="left" alt="perazaf1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perazaf1&show_icons=true&hide_border=true&title_color=#2d333b&text_color=#9DA7B3&locale=en&bg_color=#22272e"
 />
