@@ -36,6 +36,9 @@
 
 <img align="center" alt="perazaf1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perazaf1&show_icons=true&hide_border=false&border_radius=20px&bg_color=22272E&text_color=ADBAC7&title_color=ADBAC7"
 />
+<br/>
+<br/>
+
 ---
 <br/>
 <br/>
