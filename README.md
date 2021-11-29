@@ -45,8 +45,7 @@
 <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perazaf1&layout=compact&langs_count=8&theme=react&locale=fr"/>
 
 <br/>
-[![wakatime](https://wakatime.com/badge/user/d883ee00-c06e-4e31-9dd7-e052ebda81ae.svg)](https://wakatime.com/@d883ee00-c06e-4e31-9dd7-e052ebda81ae)
----
+[![wakatime](https://wakatime.com/badge/github/perazaf1/perazaf1.svg)](https://wakatime.com/badge/github/perazaf1/perazaf1)
 
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 
