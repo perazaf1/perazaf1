@@ -44,6 +44,9 @@
 <br/>
 <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perazaf1&layout=compact&langs_count=8&theme=react&locale=fr"/>
 
+<br/>
+<img style="padding:0 20px" alt="walktime" src="https://github-readme-stats.vercel.app/api/wakatime?username=perazaf1&langs_count=5&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a" width="420">
+
 ---
 
 ### <p align="center">👀 &nbsp;Visiteurs</p>
@@ -53,6 +56,7 @@
   <img src="https://profile-counter.glitch.me/perazaf1/count.svg" />
 </p>
 <br>
+
 
 ---
 
