@@ -45,7 +45,7 @@
 <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perazaf1&layout=compact&langs_count=8&theme=react&locale=fr"/>
 
 <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=perazaf1)](https://github.com/anuraghazra/github-readme-stats)
+[![perazaf1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=perazaf1)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
