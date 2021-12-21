@@ -12,11 +12,11 @@
 <br/>
 - 🏊‍♂️🚴‍♂️🏃‍♂️ sports
 <br/> 
-<img align="left" alt="Strava" width="24px" src="https://user-images.githubusercontent.com/80415605/146937521-c006d21c-0d0c-4f89-ab17-4ad6bab429df.png"/>
 
+- Follow me on 
+  <img alt="Strava" width="24px" src="https://user-images.githubusercontent.com/80415605/146937521-c006d21c-0d0c-4f89-ab17-4ad6bab429df.png"/> : https://www.strava.com/athletes/pe_rzf
 
-
-
+<br/> 
 - 🔥 and young firefighter
 
 <br/>
