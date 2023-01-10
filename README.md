@@ -1,26 +1,11 @@
-### Hi there, It's [perazaf1] 👋
+### Hi there, It's perazaf1 👋
 
-### Young student interested in web dev !
+### Young student interested in web dev ! ![Cover]
 
-- 🖥 I’m currently learning HTML CSS and JavaScript
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-
-<br/>
-<br/>
+### My others activities : <br/>
 - 🏊‍♂️🚴‍♂️🏃‍♂️ sports
-<br/> 
-
-- Follow me on 
-  <img alt="Strava" width="24px" src="https://user-images.githubusercontent.com/80415605/146937521-c006d21c-0d0c-4f89-ab17-4ad6bab429df.png"/> : https://www.strava.com/athletes/pe_rzf
-
-<br/> 
-- 🔥 and young firefighter
-
-<br/>
-<br/>
+<br/> <br/>
+- 🔥 young firefighter
 
 ---
 
