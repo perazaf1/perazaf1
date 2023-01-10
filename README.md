@@ -1,6 +1,6 @@
 ### Hi there, It's perazaf1 👋
 
-### Young student interested in web dev ! ![Cover]
+### Young student interested in web dev ! ![Cover]([https://github.com/perazaf1/perazaf1/tree/master/img](https://github.com/perazaf1/perazaf1/blob/master/img/canva-hacker-character-avatar-icon-MACF38Xo9ZY.png))
 
 ### My others activities : <br/>
 - 🏊‍♂️🚴‍♂️🏃‍♂️ sports
