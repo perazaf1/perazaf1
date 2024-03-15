@@ -1,11 +1,4 @@
-### Hi there, It's perazaf1 👋
 
-### Young student interested in web dev ! 
-
-### My others activities : <br/>
-- 🏊‍♂️🚴‍♂️🏃‍♂️ sports
-<br/> <br/>
-- 🔥 young firefighter
 
 ---
 
