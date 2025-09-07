@@ -24,14 +24,9 @@
 
 <br/>
 
-### <p align="center">👀 &nbsp;Visiteurs</p>
 
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/perazaf1/count.svg" />
-</p>
-<br>
 
 
 ---
+
 
