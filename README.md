@@ -1,44 +1,38 @@
-### Hi there, It's perazaf1 👋
+# Hi there, I'm perazaf1 👋
 
-### Young student interested in web dev ! 
+### Student | Web Developer | Data Enthusiast
 
-### My others activities : <br/>
-- 🏊‍♂️🚴‍♂️🏃‍♂️ sports
-<br/> <br/>
-- 🔥 young firefighter
+I'm a young student passionate about building things with code and exploring the intersection of technology and sports.
 
 ---
 
-### Languages and Tools :
+## 🛠️ Tools & Technologies
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br/>
-<br/>
+```text
+Code         VS Code • Git • Terminal
+Languages    Python • JavaScript • PHP • C++
+Web          HTML • CSS • React
+Data         Data Science • Data Visualization
+```
 
 ---
 
+## 🎯 Interests
 
-### My programming languages :
-<br>
-<img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=perazaf1&layout=compact&langs_count=8&theme=react&locale=fr"/>
-
-<br/>
-
-### <p align="center">👀 &nbsp;Visiteurs</p>
-
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/perazaf1/count.svg" />
-</p>
-<br>
-
+- 📊 **Data Science** - Exploring patterns and insights in data
+- 📈 **Data Visualization** - Making data beautiful and understandable
+- 🌐 **Web Development** - Building modern, responsive websites
 
 ---
 
+## 📫 Let's Connect
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=perazaf1&color=blueviolet&style=flat-square)
+
+</div>
