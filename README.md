@@ -2,7 +2,7 @@
 
 Student in Mathematics & Computer Science for Data and Decision at Université Paris Dauphine - PSL.
 
-I'm interested in data science, machine learning, and applying these tools to real-world data — particularly around transport, sports, and open data.
+I'm interested in data science, machine learning, and applying these tools to real-world data, particularly around transport, sports, and open data.
 
 ---
 
@@ -40,7 +40,7 @@ I'm interested in data science, machine learning, and applying these tools to re
 
 ## Contact
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/perazaf1/) · [Email](#)
 
 <div align="center">
 
