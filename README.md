@@ -1,6 +1,5 @@
-# 
 
-Student in Mathematics & Computer Science for Data and Decision at Université Paris Dauphine - PSL.
+Student in IM2D at Université Paris Dauphine - PSL.
 
 I'm interested in data science, machine learning, and applying these tools to real-world data, particularly around transport, sports, and open data.
 
@@ -11,7 +10,7 @@ I'm interested in data science, machine learning, and applying these tools to re
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 ## Data & Machine Learning
 
@@ -23,9 +22,9 @@ I'm interested in data science, machine learning, and applying these tools to re
 ## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
