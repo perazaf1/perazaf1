@@ -1,4 +1,4 @@
-# Hi, I'm Paul-Émile 👋
+# 
 
 Student in Mathematics & Computer Science for Data and Decision at Université Paris Dauphine - PSL.
 
